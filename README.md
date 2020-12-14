@@ -119,5 +119,6 @@ This project is a homework from the EPFL course [COM-402](https://edu.epfl.ch/co
 [issues-shield]: https://img.shields.io/github/issues/raphaelreis/dp-db
 [issues-url]: https://github.com/raphaelreis/dp-db/issues
 [license-shield]: https://img.shields.io/github/license/raphaelreis/dp-db
+[license-url]: https://github.com/raphaelreis/dp-db/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/raphaelreisnunes/
